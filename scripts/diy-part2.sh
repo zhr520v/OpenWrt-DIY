@@ -47,6 +47,9 @@ git clone --depth=1 https://github.com/tty228/luci-app-serverchan
 # Add OpenClash
 git clone --depth=1 -b master https://github.com/vernesong/OpenClash
 
+# MosDNS
+git clone --depth=1 https://github.com/sbwml/luci-app-mosdns
+
 # Add luci-app-onliner
 git clone --depth=1 https://github.com/rufengsuixing/luci-app-onliner
 
